@@ -1,0 +1,1 @@
+wrong scanf input
