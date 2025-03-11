@@ -1,0 +1,3 @@
+[submodule "C-meow"]
+	path = C-meow
+	url = https://github.com/avdasich/C-meow
