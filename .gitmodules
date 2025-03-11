@@ -1,4 +1,0 @@
-[submodule "my-submodule"]
-	path = my-submodule
-	url = https://github.com/avdasich/my-submodule.git
-
