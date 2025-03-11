@@ -1,4 +1,4 @@
-from heapq import merge
+лfrom heapq import merge
 
 def merge_sort2(m):
     """Sort list, using two part merge sort"""
@@ -13,3 +13,4 @@ def merge_sort2(m):
     left = merge_sort2(left)
 
     return list(merge(right, left))
+
