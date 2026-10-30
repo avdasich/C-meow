@@ -1,3 +1,0 @@
-[submodule "lib/my-submodule"]
-	path = lib/my-submodule
-	url = https://github.com/avdasich/C-meow.git
